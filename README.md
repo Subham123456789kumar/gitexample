@@ -1,7 +1,7 @@
 # gitexample
 just for learn
 
-this is java project for learning purpose 
+this is java project for learning purpose main 
 
 this project used for learning plateform 
 
